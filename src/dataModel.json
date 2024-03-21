@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Lenovo Thinkpad x240",
+      "condition": "Used. Tested to be working",
+      "specs": "Intel Core i5-4300U, 256GB SATA SSD, 4GB RAM memory, 12.5 (1366x768) display",
+      "os": "Ubuntu",
+      "warranty": false,
+      "price": "80",
+      "picture": "https://i.ibb.co/6gvydZw/s-l1600.webp"
+    },
+    {
+      "id": 2,
+      "name": "Apple Macbook Air 13 inch 2020",
+      "condition": "Certified refurbished",
+      "specs": "Apple M1, 512GB SSD, 8GB RAM memory, 13.3 (2560x1600) display",
+      "os": "Mac OS",
+      "warranty": true,
+      "price": "700",
+      "picture": "https://i.ibb.co/n7ggWJy/s-l1600-3.webp"
+    },
+    {
+      "id": 3,
+      "name": "Lenovo Thinkpad T480s",
+      "condition": "Certified refurbished",
+      "specs": "Intel Core i5-8350U, 8GB RAM memory, 14 (1920x1080) display",
+      "os": "Windows 10 Pro",
+      "warranty": true,
+      "price": "200",
+      "picture": "https://i.ibb.co/2ZzjJgf/s-l1600-2.webp"
+    },
+    {
+      "id": 4,
+      "name": "Samsung Chromebook 4",
+      "condition": "Used. Tested to be working",
+      "specs": "Intel Celeron N4020, 16GB EMMC, 4GB RAM memory, 11.6 (1366x768) display",
+      "os": "Chrome OS",
+      "warranty": false,
+      "price": "50",
+      "picture": "https://i.ibb.co/ZdDXQb2/s-l1600-1.webp"
+    },
+    {
+      "id": 5,
+      "name": "Apple Macbook Pro 15 inch 2015",
+      "condition": "Used. Tested to be working",
+      "specs": "Intel Core i7-4770HQ, 256GB SSD. 16GB RAM memory, 15 (2880x1800) display",
+      "os": "Mac OS",
+      "warranty": false,
+      "price": "250",
+      "picture": "https://i.ibb.co/WkSGhWC/s-l1600-5.webp"
+    },
+    {
+      "name": "Pine64 Pinebook Pro",
+      "condition": "New",
+      "specs": "ARM Cortex A72",
+      "os": "Ubuntu",
+      "warranty": "",
+      "price": "200",
+      "picture": "https://pine64.com/wp-content/uploads/2020/09/PBPclosed.jpg",
+      "id": 6
+    },
+    {
+      "name": "Dell Optiplex 790 SFF",
+      "condition": "Used. Tested to be working",
+      "specs": "Intel Core i5-2400, 128GB SSD, 4GB RAM memory",
+      "os": "Windows 10 Home",
+      "warranty": "false",
+      "price": "60",
+      "picture": "https://i.ibb.co/StBytyb/s-l1600.png",
+      "id": 7
+    }
+  ]
+}
